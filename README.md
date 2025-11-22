@@ -11,3 +11,7 @@ Pass a N×V array (i.e. an array of N arrays, each with up to V items that can b
 git clone https://github.com/igorkond/liquid-sort  
 cd liquid-sort  
 npm install  
+npm run build  
+
+# Run an example after installation
+node dist/index.js  
